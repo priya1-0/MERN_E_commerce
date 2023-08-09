@@ -67,9 +67,15 @@ The admin pages are as follows,User Edit Screen, Order List Screen, Product Edit
 orders. 
 In this page user can create and edit products.
 User List Screen:
+
 All the users are displayed in this list. This was created for the admin to maintain the users and to be able to modify if admin of the website is to be changed.
 There can be more than one admins in this website. 
-
  
 ![users lsit](https://github.com/priya1-0/MERN_E_commerce/assets/72966981/bd1c4ca1-f396-4d6e-9580-11b153d2275d)
+
+Here is a demo video: 
+
+https://github.com/priya1-0/MERN_E_commerce/assets/72966981/2997d86d-f323-46c2-b5e7-cc1802cb6fc1
+
+
 
